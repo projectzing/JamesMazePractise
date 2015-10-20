@@ -1,0 +1,128 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Textures\tex_Path.png</Source>
+      <Name>Textures\tex_Path</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\shauna\documents\visual studio 2013\Projects\MazePractice\MazePractice\MazePractice\bin\x86\Debug\Content\Textures\tex_Path.xnb</Output>
+      <Time>2015-10-12T23:30:10.4403798+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\tex_WallV.png</Source>
+      <Name>Textures\tex_WallV</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\shauna\documents\visual studio 2013\Projects\MazePractice\MazePractice\MazePractice\bin\x86\Debug\Content\Textures\tex_WallV.xnb</Output>
+      <Time>2015-10-12T23:34:54.656636+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\tex_WallH.png</Source>
+      <Name>Textures\tex_WallH</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\shauna\documents\visual studio 2013\Projects\MazePractice\MazePractice\MazePractice\bin\x86\Debug\Content\Textures\tex_WallH.xnb</Output>
+      <Time>2015-10-12T23:34:42.6329483+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\tex_pillar.png</Source>
+      <Name>Textures\tex_pillar</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\shauna\documents\visual studio 2013\Projects\MazePractice\MazePractice\MazePractice\bin\x86\Debug\Content\Textures\tex_pillar.xnb</Output>
+      <Time>2015-10-12T23:30:54.3118891+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\player.png</Source>
+      <Name>Textures\player</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Shauna\Documents\Visual Studio 2013\Projects\MazePractice\MazePractice\MazePractice\bin\x86\Debug\Content\Textures\player.xnb</Output>
+      <Time>2015-10-12T23:29:53.921435+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\tex_PathHoriz.png</Source>
+      <Name>Textures\tex_PathHoriz</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Shauna\Documents\Visual Studio 2013\Projects\MazePractice\MazePractice\MazePractice\bin\x86\Debug\Content\Textures\tex_PathHoriz.xnb</Output>
+      <Time>2015-10-12T23:30:23.9191507+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\tex_PathVert.png</Source>
+      <Name>Textures\tex_PathVert</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Shauna\Documents\Visual Studio 2013\Projects\MazePractice\MazePractice\MazePractice\bin\x86\Debug\Content\Textures\tex_PathVert.xnb</Output>
+      <Time>2015-10-12T23:30:36.1918527+01:00</Time>
+    </Item>
+    <Item>
+      <Source>font.spritefont</Source>
+      <Name>font</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Shauna\documents\visual studio 2013\Projects\MazePractice\MazePractice\MazePractice\bin\x86\Debug\Content\font.xnb</Output>
+      <Time>2015-10-16T15:48:31.6334198+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\tex_Exit.png</Source>
+      <Name>Textures\tex_Exit</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Shauna\documents\visual studio 2013\Projects\MazePractice\MazePractice\MazePractice\bin\x86\Debug\Content\Textures\tex_Exit.xnb</Output>
+      <Time>2015-10-16T19:32:32.3312772+01:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{F8582BF1-0222-4CD2-91BC-58FCB4304CFD}</ContentProjectGUID>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\Shauna\documents\visual studio 2013\Projects\MazePractice\MazePractice\MazePracticeContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\Shauna\documents\visual studio 2013\Projects\MazePractice\MazePractice\MazePractice\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\Shauna\documents\visual studio 2013\Projects\MazePractice\MazePractice\MazePractice\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\Shauna\documents\visual studio 2013\Projects\MazePractice\MazePractice\MazePractice\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2011-09-01T17:22:30+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2011-09-01T17:22:30+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2011-09-01T17:22:30+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2011-09-01T17:22:30+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2011-09-01T17:22:30+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2011-09-01T17:22:30+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2015-03-13T23:21:19.1616494+00:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

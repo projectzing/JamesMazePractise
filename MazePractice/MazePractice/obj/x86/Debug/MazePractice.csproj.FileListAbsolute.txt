@@ -1,0 +1,15 @@
+c:\users\shauna\documents\visual studio 2013\Projects\MazePractice\MazePractice\MazePractice\bin\x86\Debug\MazePractice.exe
+c:\users\shauna\documents\visual studio 2013\Projects\MazePractice\MazePractice\MazePractice\bin\x86\Debug\MazePractice.pdb
+c:\users\shauna\documents\visual studio 2013\Projects\MazePractice\MazePractice\MazePractice\obj\x86\Debug\MazePractice.csprojResolveAssemblyReference.cache
+c:\users\shauna\documents\visual studio 2013\Projects\MazePractice\MazePractice\MazePractice\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+c:\users\shauna\documents\visual studio 2013\Projects\MazePractice\MazePractice\MazePractice\obj\x86\Debug\MazePractice.exe
+c:\users\shauna\documents\visual studio 2013\Projects\MazePractice\MazePractice\MazePractice\obj\x86\Debug\MazePractice.pdb
+c:\users\shauna\documents\visual studio 2013\Projects\MazePractice\MazePractice\MazePractice\bin\x86\Debug\Content\Textures\tex_Path.xnb
+c:\users\shauna\documents\visual studio 2013\Projects\MazePractice\MazePractice\MazePractice\bin\x86\Debug\Content\Textures\tex_WallV.xnb
+c:\users\shauna\documents\visual studio 2013\Projects\MazePractice\MazePractice\MazePractice\bin\x86\Debug\Content\Textures\tex_WallH.xnb
+c:\users\shauna\documents\visual studio 2013\Projects\MazePractice\MazePractice\MazePractice\bin\x86\Debug\Content\Textures\tex_pillar.xnb
+C:\Users\Shauna\Documents\Visual Studio 2013\Projects\MazePractice\MazePractice\MazePractice\bin\x86\Debug\Content\Textures\player.xnb
+C:\Users\Shauna\Documents\Visual Studio 2013\Projects\MazePractice\MazePractice\MazePractice\bin\x86\Debug\Content\Textures\tex_PathHoriz.xnb
+C:\Users\Shauna\Documents\Visual Studio 2013\Projects\MazePractice\MazePractice\MazePractice\bin\x86\Debug\Content\Textures\tex_PathVert.xnb
+C:\Users\Shauna\documents\visual studio 2013\Projects\MazePractice\MazePractice\MazePractice\bin\x86\Debug\Content\font.xnb
+C:\Users\Shauna\documents\visual studio 2013\Projects\MazePractice\MazePractice\MazePractice\bin\x86\Debug\Content\Textures\tex_Exit.xnb
